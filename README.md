@@ -10,12 +10,12 @@ Here's a short video of it in action:
 
 Interesting parts include my own implementations of:
  
-ModMatrix
-MSE (multistep envelope)
-LFO
-ZeroPollChart
-CBuffer (circular buffer)
-Point (point class)
+- ModMatrix
+- MSE (multistep envelope)
+- LFO
+- ZeroPollChart
+- CBuffer (circular buffer)
+- Point (point class)
 
 as well as CombOver2.cpp and .hpp files. 
 
