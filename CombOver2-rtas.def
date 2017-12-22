@@ -1,0 +1,4 @@
+LIBRARY		CombOver2	
+EXPORTS
+	NewPlugIn					@1
+	_PI_GetRoutineDescriptor	@2
