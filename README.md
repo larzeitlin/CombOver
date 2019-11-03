@@ -1,3 +1,5 @@
+Obviously this project is very disorganised. It's just dumped here for posterity rather than as an example of good code...
+
 # The Comb-Over
 
 A 64bit comb filter Audio Unit for OSX with unique expressive abilities. 
